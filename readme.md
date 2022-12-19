@@ -1,4 +1,4 @@
-This project is a response to a brief at Medieinstitutet. The task was to recreate a website using only HTML and CSS. The project was carried out in collaboration with my classMat Edvin Djulic in September 2022.
+This project is a response to a brief at Medieinstitutet. The task was to recreate a website using only HTML and CSS. The project was carried out in collaboration with my classmate Edvin Djulic in September 2022.
 
 Demo link:
 https://nathanaelblackbourn.github.io/website-recreation/
