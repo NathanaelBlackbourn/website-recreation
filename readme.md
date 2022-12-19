@@ -1,11 +1,18 @@
-HTML & CSS, Inlämning 1
-Återskapa en hemsida.
+This project is a response to a brief at Medieinstitutet. The task was to recreate a website using only HTML and CSS. The project was carried out in collaboration with my classMat Edvin Djulic in September 2022.
+
+Demo link:
+https://nathanaelblackbourn.github.io/website-recreation/
+
+Following is the readme text we submitted with our work.
+
+# HTML & CSS, Inlämning 1
+## Återskapa en hemsida.
 
 Grupp: Edvin Djulic & Nathanael Blackbourn
 Sida: Göteborgs Konstmuseum, https://goteborgskonstmuseum.se/
 
 
-Avgränsningar
+## Avgränsningar
 
 Sidan har mycket interaktivitet som inte ingår i uppgiftsbeskrivningen. Vi har utelämnat de interaktiva elementen som vi kan inte återskapa som t.ex nav-baren some försvinner när användaren skrullar och bild carousellerna. Vi  har också förenklat strukturen och tagit bort element som vi bedömer inte behöver finnas med för att återskapa hemsidans utseende.
 
